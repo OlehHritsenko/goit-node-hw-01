@@ -1,0 +1,24 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlehHritsenko/goit-node-hw-01.git"
+  },
+  "author": "Oleh Hritsenko",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.5.0",
+    "uuid": "^9.0.0"
+  }
+}
